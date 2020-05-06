@@ -27,4 +27,4 @@ Allerdings werden diese Seiten auf Servern Dritter gehostet. Dies setzt voraus, 
 
 ### Datenschutzerklärung für die Nutzung von GitHub Pages
 
-Diese Website wird auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet. Beachten Sie daher auch die GitHub Privacy Policy.
+Diese Website wird auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet. Beachten Sie daher auch die [GitHub Privacy Policy](https://github.com/site/privacy).
