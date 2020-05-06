@@ -4,12 +4,12 @@ install:
   - pip install mkdocs-material mkdocs-redirects
 
 script:
-  - mkdocs build --clean --strict
+  - mkdocs build --clean
 
 deploy:
   provider: pages
-  skip_cleanup: true
-  github_token: ${GH_TOKEN}
+  cleanup: false
+  token: ${GH_TOKEN}
   local_dir: site
   #fqdn: gewerbehof-karlsruhe.de
   on:
