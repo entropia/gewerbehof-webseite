@@ -1,0 +1,16 @@
+language: python
+
+install:
+  - pip install mkdocs-material mkdocs-redirects
+
+script:
+  - mkdocs build --clean --strict
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: ${GH_TOKEN}
+  local_dir: site
+  #fqdn: gewerbehof-karlsruhe.de
+  on:
+    branch: master

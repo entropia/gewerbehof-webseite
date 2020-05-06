@@ -1,0 +1,41 @@
+site_name: Gewerbehof Karlsruhe - Freiraum e.V.
+site_description: Selbstverwaltetes alternatives Zentrum Karlsruhe
+site_author: Freiraum e.V. Karlsruhe
+
+repo_name: "entropia/gewerbehof-webseite"
+repo_url: "https://github.com/entropia/gewerbehof-webseite"
+
+theme:
+  name: material
+  favicon: "img/favicon.ico"
+  logo: "img/logo.svg"
+  language: de
+  font: false
+  palette:
+    primary: light green
+    accent: light green
+
+nav:
+  - Übersicht: index.md
+  - Betriebe: betriebe.md
+  - Organisationen: organisationen.md
+  - Deserteursdenkmal: deserteursdenkmal.md
+  - Über uns: ueber-uns.md
+  - Ehemalige: ehemalige.md
+  - Anfahrt: anfahrt.md
+  - Impressum / Kontakt: impressum.md
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        # old page
+        "index.php/betriebe1.html": betriebe.md
+        "index.php/inis.html": organisationen.md
+        "index.php/ueber-uns.html": ueber-uns.md
+        "index.php/deserteursdenkmal.html": deserteursdenkmal.md
+        "index.php/impressum.html": impressum.md
+        "index.php/kontakt.html": impressum.md
+        "index.php/anfahrt.html": anfahrt.md
+        "index.php/ehemalige.html": ehemalige.md
+        "index.php/links.html": index.md
