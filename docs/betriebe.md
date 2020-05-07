@@ -1,5 +1,5 @@
 
-
+-   [Ashtanga Lotus Yogaschule](https://www.ashtangalotus.de/)
 -   [Bogenraum](https://www.bogenraum.de)
 -   [Café Palaver](http://www.cafepalaver.de/)
 -   [Radler Martin](http://radler-martin.de/)
