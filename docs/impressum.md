@@ -23,7 +23,7 @@ und nach Absprache
 
 gewerbehof-karlsruhe.de nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir selbst erfassen oder speichern keinerlei persönliche Daten.
 
-Allerdings werden diese Seiten auf Servern Dritter gehostet. Dies setzt voraus, dass die jeweiligen Anbieter die IP-Adresse der Nutzer wahr nehmen. Denn ohne die IP-Adresse könnten sie Inhalte nicht an den Browser des jeweiligen Nutzers senden. Die IP-Adresse ist für die Darstellung der Inhalte erforderlich. Wir haben leider keinen Einfluss darauf, falls die Dritt-Anbieter die IP-Adresse z.B. für statistische Zwecke speichern. Soweit uns dieses bekannt ist, klären wir die Nutzer darüber auf.
+Allerdings werden diese Seiten auf Servern Dritter gehostet. Dies setzt voraus, dass die jeweiligen Anbieter die IP-Adresse der Nutzer wahr nehmen. Denn ohne die IP-Adresse könnten sie Inhalte nicht an den Browser des jeweiligen Nutzers senden. Die IP-Adresse ist für die Darstellung der Inhalte erforderlich. Wir haben leider keinen Einfluss darauf, ob die Dritt-Anbieter die IP-Adresse, z.B. für statistische Zwecke, speichern. Soweit uns das bekannt ist, klären wir die Nutzer darüber auf.
 
 ### Datenschutzerklärung für die Nutzung von GitHub Pages
 
