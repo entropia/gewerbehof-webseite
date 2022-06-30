@@ -3,7 +3,7 @@
 -   [Bogenraum](https://www.bogenraum.de)
 -   [Café Palaver](http://www.cafepalaver.de/)
 -   [Radler Martin](http://radler-martin.de/)
--   [ORAT](https://orat.de/html)
+-   [ORAT](http://orat.de/)
 -   [Schelling Architekten](https://schelling-architekten.de/)
 -   [Peter Empl Fotografie](http://www.peter-empl.de/)
 -   Lebendige Gärten
