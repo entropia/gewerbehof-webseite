@@ -6,7 +6,7 @@
 -   [ORAT](https://orat.de/html)
 -   [Schelling Architekten](https://schelling-architekten.de/)
 -   [Peter Empl Fotografie](http://www.peter-empl.de/)
--   Lebendige Gärten
+-   [Lebendige Gärten](https://www.gartenbau.org/karlsruhe/martin-lunk-garten--und-landschaftsbau-aULn2J)
 -   [Rechtsanwaltskanzlei Hartmann & Pinterić](https://www.sfp-kanzlei.de)
 -   [Töpferwerkstatt Tietze](http://www.toepferei-tietze.de/)
 -   [Werbewerkstatt](http://werbewerkstatt-karlsruhe.de/)
