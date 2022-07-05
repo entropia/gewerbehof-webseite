@@ -1,17 +1,28 @@
+## Adresse
 
+Freiraum e.V.<br>
+Steinstraße 23<br>
+76133 Karlsruhe
 
-<iframe width="100%" height="600px" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox=8.399970531463625%2C48.99759248906888%2C8.41456174850464%2C49.01555300760229&amp;layer=mapnik&amp;marker=49.00657355810747%2C8.40726613998413" ></iframe>
+Der Gewerbehof befindet sich hinter der großen Hofeinfahrt links der Haustür zum Wohnhaus mit der selben Hausnummer (23).
 
-[Karte größer anzeigen](https://www.openstreetmap.org/way/161708985#map=16/49.0066/8.4073)
+[In OpenStreetMap öffnen](https://www.openstreetmap.org/way/161708985#map=16/49.0066/8.4073)
 
+## Mit der Bahn
 
+Haltestellen in der Nähe:
 
-## Mit der Bahn vom Hauptbahnhof Karlsruhe
+* Rüppurrer Tor - ca. 250 bis 400m
+* Ettlinger Tor/Staatstheater (U) - ca. 450m
+* Kronenplatz und Kronenplatz (U) - ca. 450 bis 500m
+* Marktplatz (U Pyramide) - ca. 450 bis 550m
 
-- Vom Hauptbahnhof mit der Straßenbahnlinie 3 (Richtung Siemensallee), also nach rechts wegfahren.
-- Haltestelle Mendelssohnplatz aussteigen (nach 6 Minuten Fahrt).
-- An der Haltestelle zurück zur Ampel gehen und dort nach rechts in die Kriegsstraße (die Straße ohne Straßenbahnschienen) einbiegen.
-- In die erste Straße rechts einbiegen (Adlerstraße).
-- Diese Straße kreuzt einen dreieckigen Platz (Lidellplatz).
-- Am Anfang des Platzes links abbiegen. Das dritte Haus ist die Steinstraße 23. Dort befindet sich das Eingangstor in den Gewerbehof.
-- Das Büro des Freiraum e.V. befindet sich im größeren der beiden Gebäude ("Bau West"), also nach dem Hineingehen in den Hof rechts, im 1. OG wieder rechts, letzte Tür.
+Vom Hauptbahnhof sind es 5 bis 8 Minuten Fahrtzeit je nach gewählter Haltestelle.
+
+## Mit dem Fahrrad
+
+Im Gewerbehof befinden sich zahlreiche, von der öffentlichen Straße nicht sichtbare Fahrradständer und weitere Abstellmöglichkeiten. Weiterhin ist im Hof rund um die Uhr eine Luftpumpe zugänglich.
+
+## Mit dem Auto
+
+Der Lidellplatz und die Steinstraße liegen in der Parkzone: Werktags von 8 bis 20 Uhr darf maximal eine Stunde und mit Parkschein geparkt werden. Außerdem sind nur wenige Autoparkplätze vorhanden. Parkhäuser befinden sich unter anderem im [Einkaufszentrum Ettlinger Tor](https://www.openstreetmap.org/way/22890616) und in der [Kreuzstraße](https://www.openstreetmap.org/way/108453623).
