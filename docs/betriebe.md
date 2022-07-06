@@ -4,10 +4,10 @@
 -   [Café Palaver](http://www.cafepalaver.de/)
 -   [Radler Martin](http://radler-martin.de/)
 -   [Klovesradeln] (http://www.klovesradeln.de/)
--   [ORAT](https://orat.de/html)
+-   [ORAT](http://orat.de/)
 -   [Schelling Architekten](https://schelling-architekten.de/)
 -   [Peter Empl Fotografie](http://www.peter-empl.de/)
--   Lebendige Gärten
+-   [Lebendige Gärten](https://www.gartenbau.org/karlsruhe/martin-lunk-garten--und-landschaftsbau-aULn2J)
 -   [Rechtsanwaltskanzlei Hartmann & Pinterić](https://www.sfp-kanzlei.de)
 -   [Töpferwerkstatt Tietze](http://www.toepferei-tietze.de/)
 -   [Werbewerkstatt](http://werbewerkstatt-karlsruhe.de/)

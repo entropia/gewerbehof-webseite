@@ -9,7 +9,6 @@
 -   [Liberacion e.V.](https://www.cafe-liberacion.de/)
 -   Netzwerk
 -   [Querfunk - Freies Radio Karlsruhe](https://querfunk.info/)
--   Wirbel e.V.
 -   [wirkstatt e.V.](https://www.wirkstatt.com/)
 -   [Quatrizeps](http://www.quatrizeps.de/)
 -   [Förderverein für ein Friedendenkmal in Karlsruhe e.V.](http://friedensdenkmal-karlsruhe.de/)
