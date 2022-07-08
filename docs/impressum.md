@@ -1,4 +1,3 @@
-
 ```
 Freiraum e.V.
 Steinstr. 23
@@ -17,7 +16,6 @@ Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 35022/
 
 Mo-Fr 9:00 - 11:00 Uhr
 und nach Absprache
-
 
 ## Datenschutzerklärung
 
