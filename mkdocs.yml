@@ -5,6 +5,9 @@ site_author: Freiraum e.V. Karlsruhe
 repo_name: "entropia/gewerbehof-webseite"
 repo_url: "https://github.com/entropia/gewerbehof-webseite"
 
+extra:
+  generator: false
+
 theme:
   name: material
   favicon: "img/favicon.ico"
