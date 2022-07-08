@@ -1,5 +1,3 @@
-
-
 -   [Aikido-Dojo Jiyukan Karlsruhe e.V.](http://www.aikido-jiyukan.de/)
 -   [Aktionskreis Internationalismus (AKI Karlsruhe)](http://aki-karlsruhe.de)
 -   [Greenpeace Karlsruhe](http://www.greenpeace-karlsruhe.de/)

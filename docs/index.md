@@ -1,4 +1,3 @@
-
 # Selbstverwaltetes alternatives Zentrum Karlsruhe
 
 ![Eingang](img/Eingang.png)
@@ -12,9 +11,7 @@ Im Gewerbehof steht auch ein
 Weitere Informationen zu unserer Geschichte und zum Leben und Arbeiten in
 Selbstverwaltung findet ihr unter dem Punkt [über uns](ueber-uns/).
 
-
 ## Links zu befreundeten Seiten
 
 - [Der an den Gewerbehof angrenzende Lidellplatz](http://www.lidellplatz.net/)
 - [CONTRASTE - Monatszeitung für Selbstorganisation](http://www.contraste.org/)
- 

@@ -1,19 +1,14 @@
-
-
 An zentraler Stelle im Gewerbehof am Eingang zum Cafe Palaver steht ein Denkmal zu Ehren von Deserteuren. Es besteht aus einem gemauertem Sockel, auf dem ein Soldatenhelm platziert wurde.  Eine Texttafel auf der Vorderseite des Sockels trägt die Inschrift:
 
-> hier lebte ein mann,  
-der sich geweigert hat,  
-auf seine mitmenschen zu schießen.  
-ehre seinem andenken.  
+> hier lebte ein mann,
+der sich geweigert hat,
+auf seine mitmenschen zu schießen.
+ehre seinem andenken.
 kurt tucholski, für die deserteure
 
 Details zur Entstehungsgeschichte sind in einem [Blog-Artikel](http://friedensdenkmal-karlsruhe.de/index.php?option=com_k2&amp;view=item&amp;id=47:das-karlsruher-deserteursdenkmal&amp;Itemid=134) der Initiative "[Ein Friedensdenkmal für Karlsruhe](http://friedensdenkmal-karlsruhe.de/)" zusammengetragen worden. Weitere Infos finden sich auch in einem [Artikel des Karlsruher Stadtwikis](http://ka.stadtwiki.net/Deserteurdenkmal).
 
-
 ![Deserteursdenkmal](img/Deserteursdenkmal.jpg)
-
-
 
 # Zitat
 
@@ -31,10 +26,10 @@ In Enghien – ganz recht: da, wo die großen Rennen stattfinden, in diesem pari
 
 Sie kennen doch die Schildchen, die in den kleinen Städten bei uns die Häuser zieren, wenn sie versichert sind: ›Providentia 1897‹ und ›Assecurancia 1904‹ und so. Und auch hier in Enghien hängen an vielen Häusern Tafeln, immer wieder, da eine, hier eine, große und kleine. Sie sind bunt, auf weißem Glasgrund sieht man ein paar Verzierungsblümchen und einen Text. Da steht:
 
-> La ville d'Enghien  
-aux Héros de la Grande Guerre  
-Ici vécut le Caporal Marcel Laurent  
-tué pour la patrie en 1916  
+> La ville d'Enghien
+aux Héros de la Grande Guerre
+Ici vécut le Caporal Marcel Laurent
+tué pour la patrie en 1916
 
 Was ist das –?
 
@@ -48,8 +43,8 @@ Tafeln, wie lange noch –? Wie lange noch lassen sich erwachsene Menschen einre
 
 Uns fehlen andre Tafeln. Uns fehlt diese eine:
 
-> Hier lebte ein Mann, der sich geweigert hat,  
-auf seine Mitmenschen zu schießen.  
+> Hier lebte ein Mann, der sich geweigert hat,
+auf seine Mitmenschen zu schießen.
 Ehre seinem Andenken!
 
 Ignaz Wrobel
