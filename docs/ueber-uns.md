@@ -6,7 +6,7 @@ hide:
 
 ## Leben und Arbeiten in Selbstverwaltung
 
-Frühstück im Café, Mittagessen in der Kantine, Tanzworkshops, Kindertagesstätte, Radiosender, Druckerei, Töpferei, Fahrradwerkstatt – nur ein paar Beispiele aus der Vielfalt des Gewerbehofs.
+Cafe, Tanzworkshops, Kindertagesstätte, Radiosender, Töpferei, Fahrradwerkstatt, nur ein paar Beispiele aus der Vielfältigkeit des Gewerbehofs.
 
 Die selbstverwalteten Betriebe und Initiativen haben sich zusammengeschlossen, um gemeinsam in einem Gebäude zu arbeiten.
 
