@@ -1,3 +1,9 @@
+---
+hide:
+- toc
+- footer
+---
+
 ```
 Freiraum e.V.
 Steinstraße 23

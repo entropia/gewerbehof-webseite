@@ -1,3 +1,9 @@
+---
+hide:
+- toc
+- footer
+---
+
 # Gewerbehof&nbsp;Karlsruhe&nbsp;–<br>Freiraum&nbsp;e.V.
 
 ![Eingang](img/Eingang.png)

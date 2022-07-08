@@ -1,3 +1,9 @@
+---
+hide:
+- toc
+- footer
+---
+
 * [Aikido-Dojo Jiyukan Karlsruhe e.V.](http://www.aikido-jiyukan.de)
 * [Aktionskreis Internationalismus (AKI Karlsruhe)](http://aki-karlsruhe.de)
 * [Entropia e.V. - CCC Karlsruhe](https://entropia.de)

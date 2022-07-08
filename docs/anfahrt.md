@@ -1,3 +1,9 @@
+---
+hide:
+- toc
+- footer
+---
+
 ## Adresse
 
 Freiraum e.V.<br>

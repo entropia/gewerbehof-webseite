@@ -1,3 +1,9 @@
+---
+hide:
+- toc
+- footer
+---
+
 Ehemalige des Gewerbehofs
 =========================
 
