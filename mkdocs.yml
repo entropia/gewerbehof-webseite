@@ -2,8 +2,9 @@ site_name: Gewerbehof Karlsruhe - Freiraum e.V.
 site_description: Selbstverwaltetes alternatives Zentrum Karlsruhe
 site_author: Freiraum e.V. Karlsruhe
 
-repo_name: "entropia/gewerbehof-webseite"
-repo_url: "https://github.com/entropia/gewerbehof-webseite"
+repo_name:  "entropia/gewerbehof-webseite"
+repo_url:   "https://github.com/entropia/gewerbehof-webseite"
+edit_uri:   "edit/main/docs/"
 
 extra:
   generator: false
