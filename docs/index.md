@@ -1,6 +1,8 @@
-# Selbstverwaltetes alternatives Zentrum Karlsruhe
+# Gewerbehof&nbsp;Karlsruhe&nbsp;–<br>Freiraum&nbsp;e.V.
 
 ![Eingang](img/Eingang.png)
+
+## Selbstverwaltetes alternatives Zentrum Karlsruhe
 
 Der Gewerbehof Karlsruhe ist ein selbstverwaltetes alternatives Zentrum
 in Karlsruhe. Wir beherbergen verschiedene [Betriebe](betriebe) und viele
