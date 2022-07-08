@@ -8,11 +8,11 @@ Durch die Förderung selbstverwalteter Strukturen und durch die Entwicklung neue
 
 Am Gewerbehof beteiligt sind
 
-- Handwerksbetriebe
-- Dienstleistungsbetriebe
-- Café
-- Soziale Einrichtungen
-- Kulturelle Einrichtungen
+* Handwerksbetriebe
+* Dienstleistungsbetriebe
+* Café
+* Soziale Einrichtungen
+* Kulturelle Einrichtungen
 
 Mit dem Zusammenschluss so vieler unterschiedlicher Betriebe und sozialer Einrichtungen schaffen wir den Rahmen für eine vielseitige, funktionierende Zusammenarbeit und für die Entwicklung gemeinsamer Perspektiven und Ziele.
 

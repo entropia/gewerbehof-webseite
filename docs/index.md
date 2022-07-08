@@ -13,5 +13,5 @@ Selbstverwaltung findet ihr unter dem Punkt [über uns](ueber-uns/).
 
 ## Links zu befreundeten Seiten
 
-- [Der an den Gewerbehof angrenzende Lidellplatz](http://www.lidellplatz.net/)
-- [CONTRASTE - Monatszeitung für Selbstorganisation](http://www.contraste.org/)
+* [Der an den Gewerbehof angrenzende Lidellplatz](http://www.lidellplatz.net/)
+* [CONTRASTE - Monatszeitung für Selbstorganisation](http://www.contraste.org/)
