@@ -1,24 +1,23 @@
-An zentraler Stelle im Gewerbehof am Eingang zum Cafe Palaver steht ein Denkmal zu Ehren von Deserteuren. Es besteht aus einem gemauertem Sockel, auf dem ein Soldatenhelm platziert wurde.  Eine Texttafel auf der Vorderseite des Sockels trägt die Inschrift:
+An zentraler Stelle im Gewerbehof am Eingang zum Café Palaver steht ein Denkmal zu Ehren von Deserteuren. Es besteht aus einem gemauerten Sockel, auf dem ein Soldatenhelm platziert wurde. Eine Texttafel auf der Vorderseite des Sockels trägt die Inschrift:
 
 > hier lebte ein mann,
 der sich geweigert hat,
 auf seine mitmenschen zu schießen.
 ehre seinem andenken.
-kurt tucholski, für die deserteure
+kurt tucholski für die deserteure
 
-Details zur Entstehungsgeschichte sind in einem [Blog-Artikel](http://friedensdenkmal-karlsruhe.de/index.php?option=com_k2&amp;view=item&amp;id=47:das-karlsruher-deserteursdenkmal&amp;Itemid=134) der Initiative "[Ein Friedensdenkmal für Karlsruhe](http://friedensdenkmal-karlsruhe.de/)" zusammengetragen worden. Weitere Infos finden sich auch in einem [Artikel des Karlsruher Stadtwikis](http://ka.stadtwiki.net/Deserteurdenkmal).
+Details zur Entstehungsgeschichte sind in einem [Blog-Artikel](http://friedensdenkmal-karlsruhe.de/index.php?option=com_k2&amp;view=item&amp;id=47:das-karlsruher-deserteursdenkmal&amp;Itemid=134) der Initiative _[Ein Friedensdenkmal für Karlsruhe](http://friedensdenkmal-karlsruhe.de)_ zusammengetragen worden. Weitere Infos finden sich auch in einem [Beitrag zum Stadtwiki Karlsruhe](http://ka.stadtwiki.net/Deserteurdenkmal).
 
 ![Deserteursdenkmal](img/Deserteursdenkmal.jpg)
 
 # Zitat
 
-Das Zitat entstamt dem Text *Die Tafeln* vom Kurt Tucholski, veröffentlicht unter
-seinem Pseudonyme Ignaz Wrobel in
+Das Zitat entstammt dem Text *Die Tafeln* vom Kurt Tucholski, veröffentlicht unter seinem Pseudonym Ignaz Wrobel in
 [Die Weltbühne](https://de.wikipedia.org/wiki/Die_Weltb%C3%BChne)
-Nr. 16, S. 601 vom 21.04.1925, sowie im
+Nr. 16, S. 601 vom 21.04.1925 sowie im
 [Prager Tagblatt](https://de.wikipedia.org/wiki/Prager_Tagblatt)
-Nr. 96 Seite 3 vom 24.04.25
-([Einsehbar hier im Orginal](http://anno.onb.ac.at/cgi-content/anno?apm=0&aid=ptb&datum=19250424&seite=3)).
+Nr. 96 Seite 3 vom 24.04.1925
+(Einsehbar [hier](http://anno.onb.ac.at/cgi-content/anno?apm=0&aid=ptb&datum=19250424&seite=3) im Orginal).
 
 ### Die Tafeln
 
