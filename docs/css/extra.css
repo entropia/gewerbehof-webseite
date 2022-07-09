@@ -2,3 +2,7 @@ blockquote {
   max-width: 30em;
   margin: auto;
 }
+
+.md-header__source {
+  display: none;
+}
