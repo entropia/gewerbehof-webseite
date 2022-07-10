@@ -4,5 +4,5 @@ blockquote {
 }
 
 .md-header__source {
-  display: none;
+  display: none !important;
 }
