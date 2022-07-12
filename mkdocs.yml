@@ -10,7 +10,7 @@ extra:
   generator: false
 
 extra_css:
-  - stylesheets/extra.css
+  - css/extra.css
 
 theme:
   name: material

@@ -1,9 +1,0 @@
-blockquote {
-  max-width: 30em;
-  margin: auto;
-}
-
-.md-header__source,
-.md-nav__source {
-  display: none !important;
-}
