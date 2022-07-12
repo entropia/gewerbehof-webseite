@@ -15,7 +15,8 @@ blockquote {
 }
 
 .md-header__source,
-.md-nav__source {
+.md-nav__source,
+.md-nav__title {
   display: none !important;
 }
 
