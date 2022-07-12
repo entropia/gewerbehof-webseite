@@ -4,6 +4,16 @@ hide:
 - footer
 ---
 
+## Arbeitsgruppen
+
+### Baum-AG
+
+### Solar-AG
+
+### Wiki-AG
+
+## Deserteursdenkmal
+
 An zentraler Stelle im Gewerbehof am Eingang zum Café Palaver steht ein Denkmal zu Ehren von Deserteuren. Es besteht aus einem gemauerten Sockel, auf dem ein Soldatenhelm platziert wurde. Eine Texttafel auf der Vorderseite des Sockels trägt die Inschrift:
 
 > hier lebte ein mann,

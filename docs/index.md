@@ -15,9 +15,9 @@ in Karlsruhe. Wir beherbergen verschiedene [Betriebe](betriebe) und viele
 [Organisationen und Vereine](organisationen).
 
 Im Gewerbehof steht auch ein
-[Denkmal zum Gedenken an die Deserteure](deserteursdenkmal).
+[Denkmal zum Gedenken an die Deserteure](aktivitaeten#deserteursdenkmal).
 Mehr Informationen zu unserer Geschichte und zum Leben und Arbeiten in
-Selbstverwaltung findet ihr unter [Über Uns](ueber-uns).
+Selbstverwaltung findet ihr unter [Über Uns](historie).
 
 ## Links zu befreundeten Seiten
 

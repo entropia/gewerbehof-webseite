@@ -24,11 +24,10 @@ theme:
 
 nav:
   - Übersicht: index.md
+  - Über uns: ueber-uns.md
   - Betriebe: betriebe.md
   - Organisationen: organisationen.md
-  - Deserteursdenkmal: deserteursdenkmal.md
-  - Über uns: ueber-uns.md
-  - Ehemalige: ehemalige.md
+  - Aktivitäten: aktivitaeten.md
   - Anfahrt: anfahrt.md
   - Impressum / Kontakt: impressum.md
 
@@ -40,9 +39,9 @@ plugins:
         "index.php/betriebe1.html": betriebe.md
         "index.php/inis.html": organisationen.md
         "index.php/ueber-uns.html": ueber-uns.md
-        "index.php/deserteursdenkmal.html": deserteursdenkmal.md
+        "index.php/deserteursdenkmal.html": aktivitaeten.md
         "index.php/impressum.html": impressum.md
         "index.php/kontakt.html": impressum.md
         "index.php/anfahrt.html": anfahrt.md
-        "index.php/ehemalige.html": ehemalige.md
+        "index.php/ehemalige.html": historie.md
         "index.php/links.html": index.md
