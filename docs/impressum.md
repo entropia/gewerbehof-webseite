@@ -18,7 +18,7 @@ Registernummer: VR 1617
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 35022/03368
 ```
 
-## Offnungszeiten des Büros
+## Öffnungszeiten des Büros
 
 Montag - Freitag von 9 bis 11 Uhr<br>
 und nach Absprache
