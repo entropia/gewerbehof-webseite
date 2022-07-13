@@ -25,10 +25,15 @@ blockquote {
   margin: auto;
 }
 
+.md-header__button.md-logo,
 .md-header__source,
 .md-nav__source,
 .md-nav__title {
   display: none !important;
+}
+
+.md-sidebar__inner::before {
+  content: url('../img/logo.svg');
 }
 
 @font-face {
