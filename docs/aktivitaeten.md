@@ -63,3 +63,7 @@ auf seine Mitmenschen zu schießen.
 Ehre seinem Andenken!
 
 Ignaz Wrobel
+
+### Weitere Infos
+
+Einige Fotos und Informationen zur Entstehungsgeschichte des Denkmals finden sich im [Blog](http://friedensdenkmal-karlsruhe.de/index.php?option=com_k2&view=item&id=47:das-karlsruher-deserteursdenkmal&Itemid=134) der "Initiative für eine Friedensdenkmal" dessen Förderverein im Gewerbehof beheimatet ist.
