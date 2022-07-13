@@ -6,18 +6,19 @@
 h1,
 .md-typeset h1 {
   font-family: var(--md-title-font);
-  font-size: 2.8rem;
-  line-height: 3.4rem;
+  font-size: 2.5rem;
+  line-height: 3rem;
   font-weight: 700;
   font-style: italic;
 }
 
 h2,
 .md-typeset h2 {
-  font-size: 1.8rem;
-  line-height: 2.2rem;
+  font-size: 1.6rem;
+  line-height: 2rem;
   font-weight: 700;
   font-style: italic;
+  color: var(--md-default-fg-color--light);
 }
 
 blockquote {
