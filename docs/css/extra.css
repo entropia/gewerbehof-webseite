@@ -35,6 +35,9 @@ blockquote {
 
 .md-sidebar__inner::before {
   content: url('../img/logo.svg');
+  display: block;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 @font-face {
