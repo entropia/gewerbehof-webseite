@@ -67,3 +67,5 @@ Ignaz Wrobel
 ### Weitere Infos
 
 Einige Fotos und Informationen zur Entstehungsgeschichte des Denkmals finden sich im [Blog](http://friedensdenkmal-karlsruhe.de/index.php?option=com_k2&view=item&id=47:das-karlsruher-deserteursdenkmal&Itemid=134) der "Initiative für eine Friedensdenkmal" dessen Förderverein im Gewerbehof beheimatet ist.
+
+Wer sich für die Situation von Deserteuren heute interessiert sollte Kontakt zum Connvection e.V. aufnehmen, der aktiv Deserteure aus aller Welt unterstützt. Auf deren Webseiten finden sich [hier](https://de.connection-ev.org/article-2057) auch Informationen über weitere Deserteursdenkmäler in anderen Städten.
