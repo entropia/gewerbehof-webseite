@@ -1,6 +1,21 @@
-:root {
+html {
   --md-text-font: 'Lato';
   --md-title-font: 'Lora';
+}
+
+[data-md-color-primary="light-green"]:not([data-md-color-scheme="slate"]) {
+  --md-typeset-a-color: #a2c543;
+}
+
+[data-md-color-primary="light-green"] {
+  --md-primary-fg-color: #a2c543;
+  --md-primary-fg-color--light: #a2c543;
+  --md-primary-fg-color--dark: #a2c543;
+}
+
+[data-md-color-accent="light-green"] {
+  --md-accent-fg-color: #a2c543;
+  --md-typeset-a-color: #a2c543;
 }
 
 h1,
