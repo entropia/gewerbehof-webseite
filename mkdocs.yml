@@ -39,7 +39,7 @@ plugins:
         "index.php/betriebe1.html": betriebe.md
         "index.php/inis.html": organisationen.md
         "index.php/ueber-uns.html": ueber-uns.md
-        "index.php/deserteursdenkmal.html": aktivitaeten.md
+        "index.php/deserteursdenkmal.html": deserteursdenkmal.md
         "index.php/impressum.html": impressum.md
         "index.php/kontakt.html": impressum.md
         "index.php/anfahrt.html": anfahrt.md
