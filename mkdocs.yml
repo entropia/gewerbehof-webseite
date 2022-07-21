@@ -25,8 +25,11 @@ theme:
 nav:
   - Übersicht: index.md
   - Über uns: ueber-uns.md
-  - Betriebe: betriebe.md
-  - Organisationen: organisationen.md
+  - Dienstleistung: services.md
+  - IT und Gesellschaft: it.md
+  - Handwerk: craft.md
+  - Bewerbung: motion.md
+  - Kultur, Umwelt u. Gesellschaft: society.md
   - Aktivitäten: aktivitaeten.md
   - Anfahrt: anfahrt.md
   - Impressum / Kontakt: impressum.md
