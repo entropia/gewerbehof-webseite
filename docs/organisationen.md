@@ -13,7 +13,6 @@ hide:
 * [Kindertagesstätte im Gewerbehof e.V.](https://kita-im-gewerbehof.de)
 * [Liberacion e.V.](https://www.cafe-liberacion.de)
 * Lilife
-* Netzwerk
 * [Quatrizeps](http://www.quatrizeps.de)
 * [Querfunk - Freies Radio Karlsruhe](https://querfunk.info)
 * [wirkstatt e.V.](https://www.wirkstatt.com)
