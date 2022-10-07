@@ -6,7 +6,7 @@ hide:
 
 * [Aktionskreis Internationalismus (AKI Karlsruhe)](http://aki-karlsruhe.de)
 * [Förderverein für ein Friedendenkmal in Karlsruhe e.V.](http://friedensdenkmal-karlsruhe.de)
-* Greenpeace Karlsruhe
+* [Greenpeace Karlsruhe](https://greenwire.greenpeace.de/greenpeace-karlsruhe/about)
 * [Initiative Druckschrift - Aufgefächert e.V.](https://druckschrift-ka.de)
 * [Liberacion e.V.](https://www.cafe-liberacion.de)
 * Lilife
