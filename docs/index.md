@@ -14,10 +14,10 @@ Der Gewerbehof Karlsruhe ist ein selbstverwaltetes alternatives Zentrum
 in Karlsruhe. Wir beherbergen verschiedene [Betriebe](betriebe) und viele
 [Organisationen und Vereine](organisationen).
 
-Im Gewerbehof steht auch ein
-[Denkmal zu Ehren von Deserteuren](deserteursdenkmal).
-Mehr Informationen zu unserer Geschichte und zum Leben und Arbeiten in
-Selbstverwaltung findet ihr unter [Über Uns](historie).
+Mehr Informationen zum Leben und Arbeiten in Selbstverwaltung findet ihr unter [Über Uns](ueber-uns),
+mehr zu unserer Geschichte [hier](geschichte).
+
+Im Gewerbehof steht auch ein [Denkmal zu Ehren von Deserteuren](deserteursdenkmal).
 
 ## Links zu befreundeten Seiten
 

@@ -4,7 +4,7 @@ hide:
 - footer
 ---
 
-## Historie
+## Geschichte
 
 Um die Jahreswende 1984/85 entstand die Idee, in der Karlsruher Innenstadt ein Fabrikgebäude als Gewerbehof für selbstverwaltete Betriebe zu nutzen. Ein vorläufiges Konzept der interessierten Betriebe und Inis erhielt die politische Unterstützung der SPD-Stadträtin und Europaabgeordneten Heinke Salisch. Auch der damalige Finanzdezernent und spätere Oberbürgermeister Prof. Dr. Seiler zeigte sich der Idee sehr aufgeschlossen.
 

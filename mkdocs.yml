@@ -25,12 +25,12 @@ theme:
 nav:
   - Übersicht: index.md
   - Über uns: ueber-uns.md
-  - Dienstleistung: services.md
-  - IT und Gesellschaft: it.md
-  - Handwerk: crafts.md
-  - Bewegung: motion.md
-  - Kultur, Umwelt u. Gesellschaft: society.md
   - Aktivitäten: aktivitaeten.md
+  - Dienstleistung: dienstleistungen.md
+  - Technologie und Gesellschaft: technologie.md
+  - Handwerk: handwerk.md
+  - Bewegung: bewegung.md
+  - Kultur, Umwelt u. Gesellschaft: gesellschaft.md
   - Anfahrt: anfahrt.md
   - Impressum / Kontakt: impressum.md
 
@@ -39,12 +39,18 @@ plugins:
   - redirects:
       redirect_maps:
         # old page
-        "index.php/betriebe1.html": betriebe.md
-        "index.php/inis.html": organisationen.md
-        "index.php/ueber-uns.html": ueber-uns.md
-        "index.php/deserteursdenkmal.html": deserteursdenkmal.md
-        "index.php/impressum.html": impressum.md
-        "index.php/kontakt.html": impressum.md
-        "index.php/anfahrt.html": anfahrt.md
-        "index.php/ehemalige.html": historie.md
-        "index.php/links.html": index.md
+        "index.php/betriebe1.html"         : betriebe.md
+        "index.php/inis.html"              : organisationen.md
+        "index.php/ueber-uns.html"         : ueber-uns.md
+        "index.php/deserteursdenkmal.html" : deserteursdenkmal.md
+        "index.php/impressum.html"         : impressum.md
+        "index.php/kontakt.html"           : impressum.md
+        "index.php/anfahrt.html"           : anfahrt.md
+        "index.php/ehemalige.html"         : geschichte.md
+        "index.php/links.html"             : index.md
+        "services"                         : dienstleistungen.md
+        "historie"                         : geschichte.md
+        "society"                          : gesellschaft.md
+        "crafts"                           : handwerk.md
+        "it"                               : technologie.md
+        "motion"                           : bewegung.md
