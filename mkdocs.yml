@@ -25,6 +25,7 @@ theme:
 nav:
   - Übersicht: index.md
   - Über uns: ueber-uns.md
+  - Aktuelles: aktuelles.md
   - Aktivitäten: aktivitaeten.md
   - Dienstleistung: dienstleistungen.md
   - Technologie und Gesellschaft: technologie.md

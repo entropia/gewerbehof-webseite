@@ -14,6 +14,8 @@ Der Gewerbehof Karlsruhe ist ein selbstverwaltetes alternatives Zentrum
 in Karlsruhe. Wir beherbergen verschiedene [Betriebe](betriebe) und viele
 [Organisationen und Vereine](organisationen).
 
+Neuigkeiten, aktuelle Informationen und Veranstaltungshinweise gibt es unter [Aktuelles](aktuelles). 
+
 Mehr Informationen zum Leben und Arbeiten in Selbstverwaltung findet ihr unter [Über Uns](ueber-uns),
 mehr zu unserer Geschichte [hier](geschichte).
 
