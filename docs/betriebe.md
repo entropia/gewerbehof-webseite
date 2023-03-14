@@ -7,6 +7,7 @@ hide:
 * [Ashtanga Lotus Yogaschule](https://www.ashtangalotus.de)
 * [Bogenraum](https://www.bogenraum.de)
 * [Café Palaver](http://www.cafepalaver.de)
+* Cyberkombinat 23 (Bürogemeinschaft)
 * [Do Yoga D. Adams](https://www.do-yoga.de)
 * [JOP Arbeit & Psyche](http://www.jop-arbeit-und-psyche.de)
 * [Klovesradeln](http://www.klovesradeln.de)
