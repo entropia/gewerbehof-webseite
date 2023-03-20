@@ -6,7 +6,7 @@ hide:
 
 # Gewerbehof Karlsruhe&nbsp;–<br>Freiraum e.V.
 
-![Eingang](img/Eingang.png)
+![Eingang](img/eingang.jpg)
 
 ## Selbstverwaltetes alternatives Zentrum Karlsruhe
 
