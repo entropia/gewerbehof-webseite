@@ -24,16 +24,16 @@ theme:
 
 nav:
   - Übersicht: index.md
-  - Über uns: ueber-uns.md
+  - Über uns ／ Freiraum e. V.: ueber-uns.md
   - Aktuelles: aktuelles.md
   - Aktivitäten: aktivitaeten.md
   - Dienstleistung: dienstleistungen.md
-  - Technologie und Gesellschaft: technologie.md
+  - Technologie & Gesellschaft: technologie.md
   - Handwerk: handwerk.md
   - Bewegung: bewegung.md
-  - Kultur, Umwelt u. Gesellschaft: gesellschaft.md
+  - Kultur, Umwelt & Gesellschaft: gesellschaft.md
   - Anfahrt: anfahrt.md
-  - Impressum / Kontakt: impressum.md
+  - Impressum & Kontakt: impressum.md
 
 plugins:
   - search

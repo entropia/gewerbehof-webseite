@@ -4,7 +4,7 @@ hide:
 - footer
 ---
 
-# Gewerbehof Karlsruhe&nbsp;–<br>Freiraum e.V.
+# Gewerbehof Karlsruhe
 
 ![Bild des Eingangs zum Gewerbehof <](img/eingang.jpg)
 
