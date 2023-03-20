@@ -20,8 +20,3 @@ Mehr Informationen zum Leben und Arbeiten in Selbstverwaltung findet ihr unter [
 mehr zu unserer Geschichte [hier](geschichte).
 
 Im Gewerbehof steht auch ein [Denkmal zu Ehren von Deserteuren](deserteursdenkmal).
-
-## Links zu befreundeten Seiten
-
-* [Der an den Gewerbehof angrenzende Lidellplatz](http://www.lidellplatz.net)
-* [CONTRASTE - Monatszeitung für Selbstorganisation](http://www.contraste.org)
