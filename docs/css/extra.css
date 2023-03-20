@@ -41,6 +41,16 @@ blockquote {
   margin: auto;
 }
 
+img[alt$=">"] {
+  float: right;
+  margin-left: 16px;
+}
+
+img[alt$="<"] {
+  float: left;
+  margin-right: 16px;
+}
+
 .md-header__button.md-logo,
 .md-header__source,
 .md-nav__source,
