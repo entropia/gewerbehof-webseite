@@ -51,6 +51,10 @@ img[alt$="<"] {
   margin-right: 16px;
 }
 
+.admonition {
+  max-width: 750px;
+}
+
 .md-header__button.md-logo,
 .md-header__source,
 .md-nav__source,

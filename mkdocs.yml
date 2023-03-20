@@ -22,6 +22,9 @@ theme:
     primary: light green
     accent: light green
 
+markdown_extensions:
+  - admonition
+
 nav:
   - Übersicht: index.md
   - Über uns ／ Freiraum e. V.: ueber-uns.md
