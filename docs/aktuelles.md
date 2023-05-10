@@ -3,14 +3,14 @@ hide:
 - toc
 - footer
 ---
+## Mai 2023
 
-## Veranstaltungshinweis (Fahrrad-)Flohmarkt im Gewerbehof
+Die Vorbereitungen zur 
 
-**Am Samstag, 15. April 2023**, wird es einen Flohmarkt im gesamten Innenhof des Gewerbehofes geben.  
-**Schwerpunkt sind Fahrräder bzw. Fahrrad-Ersatzteile und Zubehör.**
+     21. Gulaschprogrammiernacht (Entropia) 
+     
+und zum
 
-Zusätzlich werden einige Betriebe, Initiativen und Privatleute Stände aufbauen und unterschiedliche Dinge anbieten.
-
-> Ort: Steinstraße 23 ／ 76133 Karlsruhe  
-> Zeit: ca. 10-17 Uhr  
-> Kontakt: martin.hauge@danke-karl-drais.de ／ mail@klovesradeln.de
+     Sommer Sonne Querfunk - Gewerbehoffestival (Querfunk)
+     
+laufen auf Hochtouren. 
