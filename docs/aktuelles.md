@@ -13,4 +13,4 @@ und zum
 
      Sommer Sonne Querfunk - Gewerbehoffestival (Querfunk)
      
-laufen auf Hochtouren. 
+laufen auf Hochtouren. ..
