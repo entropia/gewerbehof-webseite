@@ -4,29 +4,23 @@ hide:
 - footer
 ---
 
-## Festival
+## Gewerbehoffest
 
-Save the Date: Sommer, Sonne, Querfunk (Fest) am **17. Juni 2023** im Gewerbehof
+[Querfunk – Freies Radio Karlsruhe](https://querfunk.de) organisiert im Sommer
+ein Gewerbehoffest mit buntem Live-Radioprogramm zum Anschauen und Mitmachen,
+verschiedenen Aktionen anderer Gewerbehofinitiativen, Infoständen, Bücherflohmarkt,
+kühlen Drinks und einem tollen Live-Line-Up mit Konzerten unterschiedlicher Karlsruher Acts.
 
-![Flyer zum Festival](https://gewerbehof-karlsruhe.de/img/fest_flyer_2023.jpg)
-
-Zum 28. Jubiläum von Querfunk Karlsruhe machen wir wieder eine große Sause Outdoor im Gewerbehof!
-Geboten wird ein buntes Live-Radioprogramm zum Anschauen und Mitmachen, verschiedene Aktionen von Gewerbehofinitiativen, 
-Infoständen, Puppentheater, kühle Drinks und natürlich ein tolles Live-Line-Up mit 
-Konzerten von unterschiedlichen Karlsruher Acts!
- 
-**Am Samstag, 17. Juni 2023**, von 12 - 22 Uhr, Festival im gesamten Innenhof des Gewerbehofes.  
-
-> Ort: Steinstraße 23 ／ 76133 Karlsruhe  
+*Mai 23* Die Vorbereitungen zum *Sommer Sonne Querfunk – Gewerbehoffestival* im Jahr 2023 laufen auf Hochtouren.
 
 ## Deserteursdenkmal
 
-Jan. 23 Das Denkmal hat im nördlichen Teil des Hofes einen neuen Platz gefunden.
+*Jan. 23* Das Denkmal hat im nördlichen Teil des Hofes einen neuen Platz gefunden.
 
 ## Hofverschönerung
 
-Dez. 22 Wir haben unserer Gewerbehof-Eiche mehr Platz gegebenben.
+*Dez. 22* Wir haben unserer Gewerbehof-Eiche mehr Platz gegebenben.
 
 ## Solaranlage
 
-Nov. 22 Unsere Solaranlage hat die letzten Jahre viel Strom produziert. Wir arbeiten daran, sie zu erweitern!
+*Nov. 22* Unsere Solaranlage hat die letzten Jahre viel Strom produziert. Wir arbeiten daran, sie zu erweitern!
