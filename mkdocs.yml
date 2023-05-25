@@ -39,6 +39,7 @@ nav:
   - Impressum & Kontakt: impressum.md
 
 plugins:
+  - include-markdown
   - search
   - redirects:
       redirect_maps:

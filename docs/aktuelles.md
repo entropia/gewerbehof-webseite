@@ -4,20 +4,8 @@ hide:
 - footer
 ---
 
-## Sommer, Sonne, Querfunk – Gewerbehof-Festival
+{% include-markdown "news/2023-06-17_gewerbehof-fest.md" start="---\n\n" heading-offset=1 comments=false %}
 
-![Flyer zum Festival <](https://gewerbehof-karlsruhe.de/img/fest_flyer_2023.jpg)
-
-Zum 28. Jubiläum von [Querfunk Karlsruhe](https://www.querfunk.de) machen wir am **Samstag, dem 17. Juni 2023** wieder eine große Sause Outdoor im Gewerbehof!
-
-Geboten wird ein buntes Live-Radioprogramm zum Anschauen und Mitmachen, verschiedene Aktionen von Gewerbehofinitiativen, 
-Infoständen, Puppentheater, kühle Drinks und natürlich ein tolles Live-Line-Up mit Konzerten von unterschiedlichen Karlsruher Acts!
-
-Weitere Informationen: https://www.querfunk.de/veranstaltung/save-date-sommer-sonne-querfunk-fest-am-17-juni-2023-im-gewerbehof
-
-> Wo: Steinstraße 23 ／ 76133 Karlsruhe  
-> Wann: **Samstag, 17. Juni 2023**, 12-22 Uhr  
-> Kontakt: info@querfunk.de
 
 <br>
 
@@ -31,6 +19,6 @@ Weitere Informationen: https://www.querfunk.de/veranstaltung/save-date-sommer-so
 
 #### Ältere Ankündigungen und Veranstaltungshinweise
 
-- [Veranstaltungshinweis (Fahrrad-)Flohmarkt im Gewerbehof](../aktuelles_2023-05-15)
-- [Veranstaltungshinweis Internationalen Wochen gegen Rassismus](../aktuelles_2023-03-17)
-- [Veranstaltungshinweis Querfunk 25+2 – Das Festival im Gewerbehof!](../aktuelles_2022-07-02)
+- [Veranstaltungshinweis (Fahrrad-)Flohmarkt im Gewerbehof](../news/2023-05-15_fahrrad-flohmarkt)
+- [Veranstaltungshinweis Internationale Wochen gegen Rassismus](../news/2023-03-17_internationale-wochen-gegen-rassismus)
+- [Veranstaltungshinweis Querfunk 25+2 – Das Festival im Gewerbehof!](../news/2022-07-02_gewerbehof-fest)

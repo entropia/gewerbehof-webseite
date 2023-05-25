@@ -10,7 +10,7 @@ if [ -d "mkdocs" ]; then
 else
   python3 -m venv mkdocs
   . mkdocs/bin/activate
-  pip install mkdocs mkdocs-material mkdocs-redirects
+  pip install mkdocs mkdocs-material mkdocs-include-markdown-plugin mkdocs-redirects
 fi
 
 mkdocs build
