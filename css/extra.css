@@ -1,0 +1,225 @@
+html {
+  --md-text-font: 'Lato';
+  --md-title-font: 'Lora';
+}
+
+[data-md-color-primary="light-green"]:not([data-md-color-scheme="slate"]) {
+  --md-typeset-a-color: #a2c543;
+}
+
+[data-md-color-primary="light-green"] {
+  --md-primary-fg-color: #a2c543;
+  --md-primary-fg-color--light: #a2c543;
+  --md-primary-fg-color--dark: #a2c543;
+}
+
+[data-md-color-accent="light-green"] {
+  --md-accent-fg-color: #a2c543;
+  --md-typeset-a-color: #a2c543;
+}
+
+h1,
+.md-typeset h1 {
+  font-family: var(--md-title-font);
+  font-size: 2.5rem;
+  line-height: 3rem;
+  font-weight: 700;
+  font-style: italic;
+}
+
+h2,
+.md-typeset h2 {
+  font-size: 1.6rem;
+  line-height: 2rem;
+  font-weight: 700;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+}
+
+blockquote {
+  max-width: 80%;
+  margin: auto;
+}
+
+img[alt$=">"] {
+  float: right;
+  margin-left: 16px;
+}
+
+img[alt$="<"] {
+  float: left;
+  margin-right: 16px;
+}
+
+.admonition {
+  max-width: 750px;
+}
+
+.md-header__button.md-logo,
+.md-header__source,
+.md-nav__source,
+.md-nav__title {
+  display: none !important;
+}
+
+.md-sidebar__inner::before {
+  content: url('../img/logo.svg');
+  display: block;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/Lora-Roman.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/Lora-Italic.woff2') format('woff2');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src:  url('../fonts/LatoLatin-Black.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 900;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-BlackItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 900;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Bold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-BoldItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Hairline.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-HairlineItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 100;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Heavy.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 800;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-HeavyItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 800;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Italic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Light.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-LightItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Medium.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-MediumItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Semibold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-SemiboldItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-Thin.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 200;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/LatoLatin-ThinItalic.woff2') format('woff2');
+  font-style: italic;
+  font-weight: 200;
+  text-rendering: optimizeLegibility;
+}
