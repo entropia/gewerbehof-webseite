@@ -19,7 +19,7 @@ kühlen Drinks und einem tollen Live-Line-Up mit Konzerten unterschiedlicher Kar
 
 ## Hofverschönerung
 
-*Dez. 22* Wir haben unserer Gewerbehof-Eiche mehr Platz gegebenben.
+*Dez. 22* Wir haben unserer Gewerbehof-Eiche mehr Platz gegeben.
 
 ## Solaranlage
 
