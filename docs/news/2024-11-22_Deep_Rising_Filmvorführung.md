@@ -14,4 +14,5 @@ Der Film erinnert uns daran, dass der Meeresboden das gemeinsame Erbe der Mensch
 
 > Wo: Kulturhaus Mikado ／ Kanalweg 42 ／ 76149 Karlsruhe  
 > Wann: Samstag, 24. November 2024 ／ 20 Uhr  (Einlaß 19:30)
+> 
 > Kontakt: info@karlsruhe.greenpeace.de
