@@ -6,6 +6,8 @@ hide:
 
 # Deep Rising Filmvorführung
 
+![Flyer zum Film <](https://gewerbehof-karlsruhe.de/img/DeepRising.png)
+
 Das [Kulturhaus Mikado](https://mikadokultur.de/) zeigt diesen wunderbaren Film in Kooperation mit [Greenpeace}(https://greenwire.greenpeace.de/greenpeace-karlsruhe/about) und dem [Gewerbehof Karlsruhe](https://gewerbehof-karlsruhe.de).
 
 Der Film erschien 2023 und wurde von dem kanadischen Dokumentarfilmer Matthieu Rytz gedreht. Mit atemberaubenden Aufnahmen der schillerndsten Kreaturen der Tiefsee nimmt er die Zuschauer mit auf eine epische Reise in die tiefsten Tiefen unseres Ozeans - den unerforschten und unzugänglichsten Ort auf unserem Planeten.
