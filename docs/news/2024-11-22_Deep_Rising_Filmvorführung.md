@@ -6,7 +6,7 @@ hide:
 
 # Deep Rising Filmvorführung
 
-![Flyer zum Film <](https://gewerbehof-karlsruhe.de/img/DeepRising.png)
+![Flyer zum Film <](https://gewerbehof-karlsruhe.de/img/DeepRising300.png)
 
 Das [Kulturhaus Mikado](https://mikadokultur.de/) zeigt diesen wunderbaren Film in Kooperation mit [Greenpeace](https://greenwire.greenpeace.de/greenpeace-karlsruhe/about) und dem [Gewerbehof Karlsruhe](https://gewerbehof-karlsruhe.de).
 
