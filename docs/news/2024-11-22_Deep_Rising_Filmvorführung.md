@@ -15,6 +15,9 @@ Der Film ist eine fesselnde Geschichte geopolitischer, unternehmerischer und wis
 Der Film erinnert uns daran, dass der Meeresboden das gemeinsame Erbe der Menschheit ist und dass es dringend notwendig ist, die richtige Entscheidung für kommende Generationen zu tre`en.
 
 
+
+
+
 > Wo: Kulturhaus Mikado ／ Kanalweg 42 ／ 76149 Karlsruhe  
 > Wann: Samstag, 24. November 2024 ／ 20 Uhr  (Einlaß 19:30)
 > 
