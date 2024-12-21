@@ -4,7 +4,7 @@ hide:
 - footer
 ---
 
-{% include-markdown "news/2024-11-22_Deep_Rising_Filmvorführung.md" start="---\n\n" heading-offset=1 comments=false %}
+{% include-markdown "news/2024-12-20_Neuer_Pachtvertrag.md" start="---\n\n" heading-offset=1 comments=false %}
 
 <br>
 
