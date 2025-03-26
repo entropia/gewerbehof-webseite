@@ -4,7 +4,7 @@ hide:
 - footer
 ---
 
-{% include-markdown "news/2024-12-20_Neuer_Pachtvertrag.md" start="---\n\n" heading-offset=1 comments=false %}
+{% include-markdown "news/2025-04-12_Kleidertauschparty.md" start="---\n\n" heading-offset=1 comments=false %}
 
 <br>
 
@@ -17,6 +17,7 @@ hide:
 ---
 
 #### Ältere Ankündigungen und Veranstaltungshinweise
+- [Veranstaltungshinweis Kleidertauschparty](../news/2025-04-12_Kleidertauschparty)
 - [Neuer Erbpachtvertrag für den Gewerbehof](../news/2024-12-20_Neuer_Pachtvertrag)
 - [Veranstaltungshinweis Filmvorführung Deep Rising](../news/2024-12-22_Deep_Rising_Filmvorführung)
 - [Veranstaltungshinweis (Fahrrad-)Flohmarkt im Gewerbehof](../news/2023-05-15_fahrrad-flohmarkt)
