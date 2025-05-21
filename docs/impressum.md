@@ -20,7 +20,7 @@ Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 35022/
 
 ## Öffnungszeiten des Büros
 
-Montag - Freitag von 9 bis 11 Uhr<br>
+Montag - Donnerstag von 10 bis 14 Uhr<br>
 und nach Absprache
 
 ## Datenschutzerklärung
