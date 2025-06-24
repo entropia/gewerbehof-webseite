@@ -4,13 +4,7 @@ hide:
 - footer
 ---
 
-{% include-markdown "news/2025-04-12_Kleidertauschparty.md" start="---\n\n" heading-offset=1 comments=false %}
-
-<br>
-
-<br>
-
-<br>
+{% include-markdown "news/2025-06-24_Radlerhalle_Neuvermietung.md" start="---\n\n" heading-offset=1 comments=false %}
 
 <br>
 
