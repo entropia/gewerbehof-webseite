@@ -26,3 +26,7 @@ Wir bitten um Bewerbungen bis 01.08.2025 per Email an folgende Adresse:
 
 ![Radlerhalle Neuvermietung <](https://gewerbehof-karlsruhe.de/img/Radlerhalle.png)
 
+<br>
+
+<br>
+
