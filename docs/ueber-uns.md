@@ -22,7 +22,7 @@ Am Gewerbehof beteiligt sind
 
 Mit dem Zusammenschluss so vieler unterschiedlicher Betriebe und Einrichtungen schaffen wir den Rahmen für eine vielseitige, funktionierende Zusammenarbeit und für die Entwicklung gemeinsamer Perspektiven und Ziele.
 
-Der Gewerbehof schafft räumliche, technische und organisatorische Voraussetzungen, um bestehende Arbeitsplätze zu sichern und neue zu schaffen. Außerdem bietet der Gewerbehof Anregungen und Orientierung für Betriebsneugründungen, die auch durch konkrete Hilfe unterstützt werden.
+Der Gewerbehof schafft räumliche, technische und organisatorische Voraussetzungen, um bestehende Arbeitsplätze zu sichern und neue zu schaffen. Außerdem bietet der Gewerbehof Anregungen und Orientierung für Betriebsneugründungen, die auch durch konkrete Hilfe unterstützt werden..
 
 
 ## Links zu befreundeten Seiten
