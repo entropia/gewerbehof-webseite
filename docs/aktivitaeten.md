@@ -3,7 +3,9 @@ hide:
 - toc
 - footer
 ---
-
+## Kleidertauschparty von Greenpeace 
+*18.04.2026* ab 11:00 im Gewerbehof 
+-----------------------------------------------------------------------
 ## Gewerbehoffest
 
 [Querfunk – Freies Radio Karlsruhe](https://querfunk.de) organisiert im Sommer
