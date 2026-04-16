@@ -4,7 +4,7 @@ hide:
 - footer
 ---
 
-# Kleidertauschparty am 12.4.2025 von 11:00 – 16:00 Uhr
+# Kleidertauschparty am 18.4.2026 von 11:00 – 16:00 Uhr
 
 ![Kleidertauschparty <](https://gewerbehof-karlsruhe.de/img/Kleidertauschparty.jpg)
 
